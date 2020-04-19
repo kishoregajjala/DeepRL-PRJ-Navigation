@@ -1,2 +1,2 @@
 # DeepRL-PRJ-Navigation
-Udacity Deep Reinforcement Learning Navigation Project
+This project repository contains my work for the Udacity's Deep Reinforcement Learning Nanodegree Project 1: Navigation.
