@@ -1,10 +1,10 @@
 # DeepRL-PRJ-Navigation
 This project repository contains my work for the Udacity's Deep Reinforcement Learning Nanodegree Project 1: Navigation.
 
-## Project Description
+### Project Description
 For this project, we will train an agent to navigate (and collect bananas!) in a large, square world.The world contains both yellow and blue bananas.
 
-## Reward
+### Reward
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. 
 
 ### State Space
