@@ -20,3 +20,13 @@ The agent has to learn how to best select actions. Four discrete actions are ava
 ### Project Goal
 The goal of the agent is to collect as many yellow bananas as possible while avoiding blue bananas. 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
+
+## Quick introduction about Deep Reinforcement Learning
+
+To understand this implementation, you will have to have some understanding of Deep Reinforcement Learning. I recommend you  reading > Deep Reinforcement learning.
+
+Reinforcement learning refers to goal-oriented algorithms, which learn how to attain a complex objective (goal) or maximize along a particular dimension over many steps; for example, maximize the points won in a game over many moves. They can start from a blank slate, and under the right conditions they achieve superhuman performance. Like a child incentivized by spankings and candy, these algorithms are penalized when they make the wrong decisions and rewarded when they make the right ones – this is reinforcement.
+
+AlphaGo is a famous example of how Deep Reinforcement Learning achieve superhuman performance and defeated the world champion.
+
+This project implement a Value Based method called Deep Q-Networks
