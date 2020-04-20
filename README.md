@@ -21,7 +21,7 @@ The agent has to learn how to best select actions. Four discrete actions are ava
 The goal of the agent is to collect as many yellow bananas as possible while avoiding blue bananas. 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
-## Quick introduction about Deep Reinforcement Learning
+### Quick introduction about Deep Reinforcement Learning
 
 To understand this implementation, you will have to have some understanding of Deep Reinforcement Learning. I recommend you  reading > Deep Reinforcement learning.
 
@@ -29,4 +29,11 @@ Reinforcement learning refers to goal-oriented algorithms, which learn how to at
 
 AlphaGo is a famous example of how Deep Reinforcement Learning achieve superhuman performance and defeated the world champion.
 
-This project implement a Value Based method called Deep Q-Networks
+This navigation project implements a Value Based method called Deep Q-Networks
+
+### The Environment
+#-
+The environment is based on Unity ML-agents. Please read more about ML-Agents by perusing the [GitHub repository](https://github.com/Unity-Technologies/ml-agents/ "GitHub repository title").
+
+The project environment is similar to, but not identical to the Banana Collector environment on the Unity ML-Agents GitHub page.
+
