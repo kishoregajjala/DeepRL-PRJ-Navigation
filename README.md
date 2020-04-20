@@ -32,8 +32,7 @@ AlphaGo is a famous example of how Deep Reinforcement Learning achieve superhuma
 This navigation project implements a Value Based method called Deep Q-Networks
 
 ### The Environment
-#-
 The environment is based on Unity ML-agents. Please read more about ML-Agents by perusing the [GitHub repository](https://github.com/Unity-Technologies/ml-agents/ "GitHub repository title").
 
-The project environment is similar to, but not identical to the Banana Collector environment on the Unity ML-Agents GitHub page.
+The project environment is similar to, but not identical to the Banana Collector environment on the [Unity ML-Agents GitHub page](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector/ "Unity ML-Agents GitHub page").
 
