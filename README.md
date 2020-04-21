@@ -67,3 +67,7 @@ For this project, we have built the Unity environment for you, and you must use 
 
 If you are interested in learning to build your own Unity environments after completing the project, you are encouraged to follow the instructions [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md/ "here"), which walk you through all of the details of building an environment from a Unity scene.
 
+### How to train a agent
+We have two options for training the Agent and they are -
+1. Directly run the notebook within the online Workspace provided by Udacity Nanodegree for the  Project #1 Navigation.
+2. The online workspace does not allow you to see the simulator of the environment; so, if you want to watch the agent while it is training, you should build your own local environment and make necessary adjustments to the path of the UnityEnvironment and train locally.
